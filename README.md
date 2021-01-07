@@ -6,7 +6,6 @@
 pq.py
 对Graph和Vertex的相关定义
 
-dijkstraf.py
 gdijk.py
 解决带权最短路径问题的经典算法是以发明者命名的“Dijkstra算法”（ /ˈdɛɪkstra）
 
